@@ -20,4 +20,5 @@
 🚀 게임 시작하기 (How to Play)
 
 👇 아래 링크를 클릭해 플레이해보세요! 👇
+
 [여기를 클릭해서 게임 실행하기](https://editor.p5js.org/charmely/full/61SqJmOYN)
